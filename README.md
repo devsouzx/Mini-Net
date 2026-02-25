@@ -74,3 +74,9 @@ LATENCIA_MAX = 0.5              # Latência máxima
 No `client.py`, você pode ajustar o timeout:
 ```python
 TIMEOUT = 2  # Tempo em segundos para aguardar ACK
+```
+
+## Video
+video rodando o projeto
+
+https://drive.google.com/file/d/1RtXmQdQeYLsV8PEYX_MBlNCObnfJ7HZ3/view?usp=sharing
