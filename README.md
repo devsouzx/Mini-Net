@@ -1,4 +1,5 @@
 # Mini-NET - Projeto de Redes de Computadores
+Desenvolvido por João Emanuel Marinho Sousa
 
 ## Descrição
 
